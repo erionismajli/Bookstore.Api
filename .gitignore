@@ -1,0 +1,9 @@
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+api-run*.log
+keys/
+*.jwk
+.env
